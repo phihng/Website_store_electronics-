@@ -4,7 +4,7 @@
 
     <!-- Page Heading -->
     <div  class="d-sm-flex align-items-center justify-content-between mb-4">
-    <div  ><img  style="width:100%" src="../../img/banneradmin.jpg" ></div>
+        <div><img style="width:100%" src="../img/banneradmin.jpg" ></div>
     </div>
 
     <!-- Content Row -->

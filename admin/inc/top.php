@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +46,8 @@
 
             <!-- Sidebar - Brand -->
             <a href="#" class="navbar-brand">
-                <img class="mx-auto d-block" src="../../img/logo.png" width="130" height="50" alt="LogoViettel">
+            <div style="font-family: Arial, sans-serif; font-size: 30px; color: orange; font-weight: bold; text-align: center;" width="130" height="50">FPT Shop</div>
+                
             </a>
 
             <!-- Divider -->
@@ -208,8 +210,8 @@
                         <!-- Nav Item - User Information -->
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                         
-                            <span class="mr-2 d-none d-lg-inline text-gray-600 small"><?php echo $_SESSION["nguoidung"]["taikhoan"] ?></span>
+<!-- note1 -->
+                            <span class="mr-2 d-none d-lg-inline text-gray-600 small"></span>
                          
                             </a>
                             <!-- Dropdown - User Information -->
